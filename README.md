@@ -1,2 +1,0 @@
-# boltservers
-bolt servers
